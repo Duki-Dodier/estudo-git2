@@ -6,3 +6,7 @@ body{
 .teste{
     font-size: 12px;
 }
+.teste p{
+    font-size: 12px;
+    color:#fff;
+}
